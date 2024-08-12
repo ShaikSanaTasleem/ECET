@@ -10,10 +10,12 @@
                                                                  ogo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"
 
-- 🌱 I’m currently learning **cyber security**
+-<ul>
 
-- 📫 How to reach me **shaiksanatasleem04@gmail.com**
+<li>🌱 I’m currently learning **cyber security** </li>
 
+<li>📫 How to reach me **shaiksanatasleem04@gmail.com**</li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shaik sana taseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaik sana taseem" height="30" width="40" /></a>
